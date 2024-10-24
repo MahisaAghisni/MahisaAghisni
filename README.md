@@ -21,8 +21,6 @@ Hello everyone, I’m Mahisa Aghisni Fadhli, a programmer with a solid foundatio
 <p align="center">
     <a href="https://github.com/MahisaAghisni/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MahisaAghisni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MahisaAghisni&theme=chartreuse-dark" />
-
-    </a>
 </p>
 
 ## 📊 My Github Stats
