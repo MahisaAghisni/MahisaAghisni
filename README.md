@@ -1,8 +1,15 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=algerian&size=22&color=7CF732&linesbackground=FFFFFF00&lines=Hi+welcome+to+my+Github%F0%9F%91%8B"></h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=25&duration=6000&color=7CF732&center=true&multiline=true&lines=I'm+Mahisa+Aghisni+Fadhli+">
-    <br>
-    <img align="center" alt="coding" width="750" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" data-canonical-src="https://simplus.id/images/coding.gif" style="max-width: 300%;">
-</h3>
+<h1 align= "center" style="position: relative;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=algerian&size=22&color=7CF732&linesbackground=FFFFFF00&lines=Hi+welcome+to+my+Github%F0%9F%91%8B" alt="Welcome">
+</h1>
+
+<h2 align="center">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" width="300">
+</h2>
+
+## 👩‍💻 About Me
+<div size="20px" dir="auto">
+Hello everyone, I’m Mahisa Aghisni Fadhli, a programmer with a solid foundation in web development using Java, PHP, Python, HTML, CSS, and JavaScript, alongside the Laravel framework. I enjoy building both backend and frontend systems, integrating databases like MySQL, and ensuring responsive, user-friendly designs. With a strong commitment to continuous learning and professional growth, I’m always looking for new challenges and opportunities to contribute to innovative projects and collaborate with dynamic teams.
+</div>
 
 
 ## 🚀 Languages and Tools:
