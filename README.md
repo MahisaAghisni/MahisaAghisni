@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=algerian&size=22&color=7CF732&linesbackground=FFFFFF00&lines=Hi+welcome+to+my+Github%F0%9F%91%8B"></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=25&duration=6000&color=7CF732&center=true&multiline=true&lines=I'm+Mahisa+Aghisni+Fadhli+">
     <br>
     <img align="center" alt="coding" width="750" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" data-canonical-src="https://simplus.id/images/coding.gif" style="max-width: 300%;">
 </h3>
+=======
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=algerian&size=22&color=7CF732&linesbackground=FFFFFF00&lines=Hi+welcome+to+my+Github%F0%9F%91%8B"></h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&size=25&duration=6000&color=7CF732&center=true&multiline=true&lines=I'm+Mahisa+Aghisni+Fadhli+">
+<br> 
+<img align="center" alt="coding" width="750" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" data-canonical-src="https://simplus.id/images/coding.gif" style="max-width: 300%;"></h3>
+>>>>>>> 86d25db6b92515d0db1a342539ce71a592dc4d93
 
 
 ## 🚀 Languages and Tools:
@@ -14,6 +22,7 @@
 <p align="center">
     <a href="https://github.com/MahisaAghisni/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MahisaAghisni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MahisaAghisni&theme=chartreuse-dark" />
+
     </a>
 </p>
 
