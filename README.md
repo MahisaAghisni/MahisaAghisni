@@ -18,26 +18,6 @@ Hello everyone, I’m Mahisa Aghisni Fadhli, a programmer with a solid foundatio
 
 <br />
 
-<p align="center">
-    <a href="https://github.com/MahisaAghisni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MahisaAghisni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MahisaAghisni&theme=chartreuse-dark" />
-</p>
-
-## 📊 My Github Stats
-
-<br />
-<a href="https://github.com/MahisaAghisni/"><img alt="MahisaAghisni Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahisaAghisni&show_icons=true&theme=chartreuse-dark" /></a>
-<a href="https://github.com/MahisaAghisni/"><img alt="MahisaAghisni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahisaAghisni&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark" /></a>
-<br />
-
-<br />
-<br />
-
-<a href="https://github.com/MahisaAghisni/"><img alt="MahisaAghisni Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahisaaghisni&theme=chartreuse-dark" /></a>
-
-<br />
-<br />
-
 ## Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/mahisaaghisni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahisaaghisni" height="30" width="40" /></a>
